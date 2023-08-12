@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramirezsebas, I'm From Paraguay. 
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Backend Development with Node JS and Mobile Development with Flutter.
+- 🌱 I’m working in Mobile Development with Flutter.
 - 💞️ I’m looking to collaborate on any Project 
 - 📫 How to reach me ramirezmatias946@gmail.com
 
