@@ -19,7 +19,8 @@ You can click the Preview link to take a look at your changes.
   I'm Matias Ramirez, a software engineer based in Paraguay. My passion lies in leveraging technology to solve complex problems, and continuously advancing my expertise in computer science, AI, and coding. My ultimate goal is to become a leading expert in these areas.
 </p>
 
-- 🎥 I’m currently working in the Fintech industry with Flutter, Dart, and Node.js.
+- 🎥 I’m currently working in with Python and Django.
+- 🎥 I’m have experience with Flutter, Dart, and Node.js.
 - 💞️ I’m looking to collaborate on any Project.
 - 📫 How to reach me: ramirezmatias946@gmail.com
 
@@ -27,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> 
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
